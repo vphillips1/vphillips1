@@ -7,7 +7,7 @@ Software Engineer |  C#, .NET, HTML, CSS and SQL | Passionate About Building Sca
 My journey into the world of coding began nearly four years ago with a transformative workshop that ignited my passion for programming, leading me to make a bold career switch and dive headfirst into software development. To solidify my skills, I enrolled in an intensive 6-month C# .NET bootcamp, where I gained a strong foundation in C# programming, proficiency in SQL database management, and expertise in leveraging the .NET Framework. Following my education, I spent over two years in an enterprise setting, where I gained invaluable hands-on experience, expanded my knowledge across various platforms and languages, and developed a deep understanding of industry best practices. As a Software Engineer, I am driven by a passion for creating reliable, scalable applications and a logical approach to problem-solving, particularly in user interface development. I am self-motivated, team-oriented, and adaptable, with a commitment to continuous learning and personal growth. Known for maintaining a positive mindset, I thrive in environments that value both collaborative teamwork and individual contributions, consistently striving for excellence and innovation in software engineering to contribute to cutting-edge solutions that make a real difference.
 
 *   🌍  I'm based in Michigan
-*   🖥️  See my portfolio at [My Portfolio](http://https://vphillips1.github.io/Web-Portfolio/)
+*   🖥️  See my portfolio at [My Portfolio](https://vphillips1.github.io/Web-Portfolio/)
 *   ✉️  You can contact me at [verkeiap@gmail.com](mailto:verkeiap@gmail.com)
 *   🧠  I'm learning C++ and Java
 *   🤝  I'm open to collaborating on Javacript, Python, C#, and C++ projects
