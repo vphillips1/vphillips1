@@ -10,7 +10,7 @@ My journey into the world of coding began in 2020 with a transformative workshop
 *   🖥️  See my portfolio at [My Portfolio](https://vphillips1.github.io/Web-Portfolio/)
 *   ✉️  You can contact me at [verkeiap@gmail.com](mailto:verkeiap@gmail.com)
 *   🧠  I'm learning C++ and Java
-*   🤝  I'm open to collaborating on Javacript, Python, C#, and C++ projects
+*   🤝  I'm open to collaborating on Javacript, Python, C#, SQL, and C++ projects
 *   ⚡  I'm a publisher on the side! Love creating children coloring books. I am excited to announce that I will soon be creating a collection of journals and planners.
 
   ### Skills 
