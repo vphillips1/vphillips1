@@ -3,6 +3,7 @@ Hi 👋 My name is Verkeia Foley
 
 Software Engineer |  C#, .NET, HTML, CSS and SQL | Passionate About Building Scalable Applications
 -----------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/a138e695-286b-4f0e-b0d9-221d5de7bd82)
 
 My journey into the world of coding began in 2020 with a transformative workshop that ignited my passion for programming, leading me to make a bold career switch and dive headfirst into software development. To solidify my skills, I enrolled in an intensive 6-month C# .NET bootcamp, where I gained a strong foundation in C# programming, proficiency in SQL database management, and expertise in leveraging the .NET Framework. Following my education, I spent over two years in an enterprise setting, where I gained invaluable hands-on experience, expanded my knowledge across various platforms and languages, and developed a deep understanding of industry best practices. As a Software Engineer, I am driven by a passion for creating reliable, scalable applications and a logical approach to problem-solving, particularly in user interface development. I am self-motivated, team-oriented, and adaptable, with a commitment to continuous learning and personal growth. Known for maintaining a positive mindset, I thrive in environments that value both collaborative teamwork and individual contributions, consistently striving for excellence and innovation in software engineering to contribute to cutting-edge solutions that make a real difference.
 
